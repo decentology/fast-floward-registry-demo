@@ -1,0 +1,9 @@
+{
+    "blocks": {
+        "/blockchain/flow": true,
+        "/blockchain/flow/cadence": true,
+        "/category/nft/dao_core-nft": true,
+        "/framework/vanilla": true
+    },
+    "__outputFolder": "flow-dao-nft"
+}

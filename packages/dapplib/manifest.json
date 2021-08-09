@@ -1,0 +1,14 @@
+{
+    "repository": {},
+    "__outputFolder": "flow-dao-nft",
+    "blocks": [
+        {
+            "category": "nft",
+            "name": "dao_core-nft",
+            "parameters": {}
+        }
+    ],
+    "blockchain": "flow",
+    "language": "cadence",
+    "framework": "vanilla"
+}
