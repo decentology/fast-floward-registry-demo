@@ -16,12 +16,8 @@ pub contract RegistryService {
         // The unique ID of this AuthNFT
         pub let authID: UInt64
 
-        // Of course
-        pub let isAwesome: Bool
-
         init() {
             self.authID = RegistryService.totalSupply
-            self.isAwesome = true
 
             RegistryService.totalSupply = RegistryService.totalSupply + (1 as UInt64)
         }
